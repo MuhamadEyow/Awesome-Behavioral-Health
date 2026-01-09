@@ -1,57 +1,99 @@
-# Awesome Behavioral Health Website
+Awesome Behavioral Health Website 
 
-## Logo Setup Instructions
+A modern, responsive, and brand-focused website built for Awesome Behavioral Health, designed to reflect trust, care, and professionalism in behavioral health services.
 
-To use your actual logo image:
+ Project Overview
 
-1. Copy your logo file: `C:\Users\91855\.verdent\artifacts\images\c870bcba-5a97-4d9c-bce8-06d5eb8af9f6\1767987094232_b3f701ac.png`
+This website provides a clean online presence for Awesome Behavioral Health, highlighting services, values, and contact information in a simple and user-friendly way. The design focuses on calm visuals, accessibility, and consistent branding.
 
-2. Paste it into this website folder: `C:\Users\91855\Downloads\new website\`
+ Pages Included
 
-3. Rename it to: `logo.png`
+Home – Clear introduction with a welcoming hero section
 
-4. Update all HTML files (index.html, about.html, contact.html):
-   - Find: `logo.svg`
-   - Replace with: `logo.png`
+About – Detailed overview of the organization and its mission
 
-Alternatively, you can keep the SVG logo that has been created as a placeholder.
+Contact – Easy-to-use contact form for inquiries
 
-## Hero Background Images
+ Brand Colors Used
 
-✅ HOME PAGE: Uses home.png as hero background
-✅ ABOUT PAGE: Uses about.png as hero background
-✅ CONTACT PAGE: Uses a stock image (you can add your own contact.png)
+The website follows the official brand color palette:
 
-## Color Theme
+Primary Blue: #1E6FD9
 
-The website uses the exact colors from your logo:
-- Primary Blue: #1E6FD9
-- Primary Green: #6CB92F
-- Light Blue: #E8F2FC
-- Light Green: #F0F8E8
+Primary Green: #6CB92F
 
-## Files Included
+Light Blue: #E8F2FC
 
-- index.html - Home page (hero: home.png)
-- about.html - About page (hero: about.png)
-- contact.html - Contact page
-- styles.css - All styling
-- script.js - Interactive features
-- logo.svg - SVG version of logo (placeholder)
-- home.png - Home page hero background ✅
-- about.png - About page hero background ✅
+Light Green: #F0F8E8
 
-## How to Use
+These colors are applied consistently across all sections.
 
-Simply open `index.html` in your web browser to view the website.
+ Hero Images
 
-## Features
+Each page has a dedicated hero background image:
 
-- Fully responsive design
-- Sticky navigation
-- Mobile hamburger menu
-- Smooth scroll animations
-- Contact form
-- SEO-ready meta tags
-- Brand-consistent colors throughout
-- Custom hero images for Home and About pages
+Home Page: home.png
+
+About Page: about.png
+
+Contact Page: Uses a default stock image (can be replaced with contact.png)
+
+ Project Structure
+new website/
+│
+├── index.html        # Home page
+├── about.html        # About page
+├── contact.html      # Contact page
+├── styles.css        # All website styling
+├── script.js         # JavaScript interactions
+├── logo.svg          # Placeholder logo
+├── logo.png          # Actual logo (optional)
+├── home.png          # Home hero image
+└── about.png         # About hero image
+ Logo Setup
+
+To use your actual logo instead of the placeholder:
+
+Copy your logo image into the project folder
+
+Rename it to logo.png
+
+Open index.html, about.html, and contact.html
+
+Replace logo.svg with logo.png
+
+ How to Run the Website
+
+No installation required.
+
+Simply open index.html in any modern web browser.
+
+ Features
+
+Fully responsive design (mobile, tablet, desktop)
+
+Sticky navigation bar
+
+Mobile hamburger menu
+
+Smooth scrolling and subtle animations
+
+Simple contact form
+
+SEO-friendly structure
+
+Brand-consistent styling
+
+Custom hero images per page
+
+ Customization
+
+You can easily:
+
+Update text content inside HTML files
+
+Replace images with your own
+
+Adjust colors in styles.css
+
+Extend functionality using script.js
